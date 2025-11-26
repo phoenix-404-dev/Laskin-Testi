@@ -12,3 +12,4 @@ C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj
 C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.pdb
 C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.genruntimeconfig.cache
 C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\ref\Laskin.dll
+C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.sourcelink.json

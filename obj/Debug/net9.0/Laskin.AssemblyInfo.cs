@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laskin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aabdbff5c1b1bf55e149f0aa9d78b8155b925fb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laskin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laskin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
