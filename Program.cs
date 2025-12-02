@@ -3,11 +3,11 @@
 Console.WriteLine("Tervetuloa Ahmedin laskimeen!");
 
 Console.WriteLine("Anna ensimmäinen luku!"); 
-float luku1 = float.Parse(Console.ReadLine());
+double luku1 = double.Parse(Console.ReadLine());
 
 
 Console.WriteLine("Anna toinen luku!"); 
-float luku2 = float.Parse(Console.ReadLine());
+double luku2 = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Valitse operaatio: +, -, *, /"); 
 string  operaatio = Console.ReadLine();
