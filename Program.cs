@@ -14,15 +14,15 @@ string  operaatio = Console.ReadLine();
 
 if ( operaatio == "+") 
 { 
-    Console.WriteLine($"{luku1}+{luku2} = {luku1 + luku2}"); 
+    Console.WriteLine($"{luku1} + {luku2} = {luku1 + luku2}"); 
 } 
 else if (operaatio == "-") 
 { 
-    Console.WriteLine($"{luku1}-{luku2} = {luku1 - luku2}"); 
+    Console.WriteLine($"{luku1} - {luku2} = {luku1 - luku2}"); 
 } 
 else if (operaatio == "*") 
 { 
-    Console.WriteLine($"{luku1}*{luku2} = {luku1 * luku2}"); 
+    Console.WriteLine($"{luku1} * {luku2} = {luku1 * luku2}"); 
 } 
 else if (operaatio == "/") 
 {
@@ -32,6 +32,6 @@ else if (operaatio == "/")
     }
     else
     {
-        Console.WriteLine($"{luku1}/{luku2} = {luku1 / luku2}");
+        Console.WriteLine($"{luku1} / {luku2} = {luku1 / luku2}");
     }
 } 
