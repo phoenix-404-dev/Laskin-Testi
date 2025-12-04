@@ -14,24 +14,24 @@ string  operaatio = Console.ReadLine();
 
 if ( operaatio == "+") 
 { 
-    Console.WriteLine($"Tulos on: {luku1 + luku2}"); 
+    Console.WriteLine($"{luku1}+{luku2} = {luku1 + luku2}"); 
 } 
 else if (operaatio == "-") 
 { 
-    Console.WriteLine($"Tulos on: {luku1 - luku2}"); 
+    Console.WriteLine($"{luku1}-{luku2} = {luku1 - luku2}"); 
 } 
 else if (operaatio == "*") 
 { 
-    Console.WriteLine($"Tulos on: {luku1 * luku2}"); 
+    Console.WriteLine($"{luku1}*{luku2} = {luku1 * luku2}"); 
 } 
 else if (operaatio == "/") 
 {
     if (luku2 == 0)
     {
-        Console.WriteLine("Perkeleeee, nollalla ei voi jakaa!"); 
+        Console.WriteLine("404-nollalla ei voi jakaa!😝"); 
     }
     else
     {
-        Console.WriteLine($"Tulos on: {luku1 / luku2}");
+        Console.WriteLine($"{luku1}/{luku2} = {luku1 / luku2}");
     }
 } 
