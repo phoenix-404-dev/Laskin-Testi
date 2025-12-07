@@ -1,15 +1,30 @@
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\bin\Debug\net9.0\Laskin.exe
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\bin\Debug\net9.0\Laskin.deps.json
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\bin\Debug\net9.0\Laskin.runtimeconfig.json
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\bin\Debug\net9.0\Laskin.dll
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\bin\Debug\net9.0\Laskin.pdb
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.AssemblyInfoInputs.cache
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.AssemblyInfo.cs
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.csproj.CoreCompileInputs.cache
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.dll
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\refint\Laskin.dll
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.pdb
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.genruntimeconfig.cache
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\ref\Laskin.dll
-C:\Users\ahmed\Desktop\SAMK university matriaali\Ohjemminin perusteet\Laskin\obj\Debug\net9.0\Laskin.sourcelink.json
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/bin/Debug/net9.0/Laskin.exe
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/bin/Debug/net9.0/Laskin.deps.json
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/bin/Debug/net9.0/Laskin.runtimeconfig.json
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/bin/Debug/net9.0/Laskin.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/bin/Debug/net9.0/Laskin.pdb
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.AssemblyInfoInputs.cache
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.AssemblyInfo.cs
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.csproj.CoreCompileInputs.cache
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/refint/Laskin.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.pdb
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.genruntimeconfig.cache
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/ref/Laskin.dll
+C:/Users/ahmed/Desktop/SAMK university matriaali/Ohjemminin perusteet/Laskin/obj/Debug/net9.0/Laskin.sourcelink.json
+/home/ahmed/Laskin-Testi/bin/Debug/net9.0/Laskin
+/home/ahmed/Laskin-Testi/bin/Debug/net9.0/Laskin.deps.json
+/home/ahmed/Laskin-Testi/bin/Debug/net9.0/Laskin.runtimeconfig.json
+/home/ahmed/Laskin-Testi/bin/Debug/net9.0/Laskin.dll
+/home/ahmed/Laskin-Testi/bin/Debug/net9.0/Laskin.pdb
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.AssemblyInfoInputs.cache
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.AssemblyInfo.cs
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.csproj.CoreCompileInputs.cache
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.sourcelink.json
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.dll
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/refint/Laskin.dll
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.pdb
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/Laskin.genruntimeconfig.cache
+/home/ahmed/Laskin-Testi/obj/Debug/net9.0/ref/Laskin.dll
